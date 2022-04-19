@@ -115,7 +115,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background: linear-gradient(to right, #003300 0%, #009933 100%)
+    background: linear-gradient(to right, #003300 0%, #009933 100%);
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
     border-radius: 10px;
@@ -154,7 +154,6 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    height: 65vh;
     background-image: url(https://i.postimg.cc/m2FKPnYN/Untitled-design-4.png);
     border-radius: 5px;
   }
@@ -188,7 +187,7 @@
   .projects-section {
     text-align: center;
     padding: 10rem 2rem;
-    background: black;
+    background: linear-gradient(to right, #003300 0%, #009933 100%);
     border-radius: 10px;
   }
   
